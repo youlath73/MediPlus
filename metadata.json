@@ -1,0 +1,8 @@
+{
+  "name": "MediPlus",
+  "description": "Offline bilingual (English \u0026 Bangla) Bangladeshi medicine directory with smart search, price comparisons, and clinical details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
